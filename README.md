@@ -1,12 +1,12 @@
 #  Hey, welcome! 👋
 
-<img align="left" width="46%" src="https://github-readme-stats.vercel.app/api?username=tomster12&count_private=true&theme=dracula&show_icons=true" />
+![tomster12's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomster12&show_icons=true)
 
 - 🎓 Currently studying at **University of York**
 
 - 💻 Main code archive found in [Coding](https://tomster12.github.io/Coding/)
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomster12&layout=compact&langs_count=10" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomster12&layout=compact&langs_count=10)
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
