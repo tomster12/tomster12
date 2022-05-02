@@ -1,6 +1,6 @@
 #  Hey, welcome! 👋
 
-- 🎓 Currently studying at **University of York**
+- 🎓 Currently studying @ **University of York**
 
 - 💻 Main code archive found in [Coding](https://tomster12.github.io/Coding/)
 
