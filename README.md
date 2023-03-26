@@ -10,12 +10,12 @@
 <br />
 
 <div>
-<img margin="auto" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomster12&count_private=true&layout=compact&hide=shaderlab&theme=dracula" />    
+<img style="margin:auto" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomster12&count_private=true&layout=compact&hide=shaderlab&theme=dracula" />    
 </div>
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomster12&layout=compact&langs_count=10&theme=dracula) -->
 <!-- ![tomster12's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomster12&show_icons=true&theme=dracula) -->
 
-<br /><br /><br />
+<br />
   
 <p align="center">
   <img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
