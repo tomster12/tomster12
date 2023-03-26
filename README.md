@@ -1,4 +1,4 @@
-<h1 align="center">Hey, welcome! 👋</h1>
+<h1 align="center">Welcome! 👋</h1>
 
 - 🎓 Currently studying @ **University of York**  
 
