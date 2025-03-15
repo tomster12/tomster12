@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <p>🎓 Currently studying @ <b>University of York</b></p>
-  <p>💻 Main code archive found in <a href=https://tomster12.github.io/Coding/>Coding </a></p>
+  <p>💻 Main code archive found in <a href=https://tomster12.github.io/coding/>Coding</a></p>
 </div>
 
 <br />
